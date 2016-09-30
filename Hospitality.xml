@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Recruiting -->
+  <RecruitAngerSelfM>{0} molestó a {1}{3} ({2} de probabilidad).</RecruitAngerSelfM>
+  <RecruitAngerSelfF>{0} molestó a {1}{3} ({2} de probabilidad).</RecruitAngerSelfF>
+  <RecruitPleaseSelfM>{0} charmed {1}{3} ({2} de probabilidad).</RecruitPleaseSelfM>
+  <RecruitPleaseSelfF>{0} charmed {1}{3} ({2} de probabilidad).</RecruitPleaseSelfF>
+  <RecruitAngerOther>{3} notó que {0} intenta reclutar a {1} y se ofendió ({2} de probabilidad).</RecruitAngerOther>
+  <RecruitFactionAnger>{0} de {1} se molestó por tu reclutamiento de {2} ({3}).</RecruitFactionAnger>
+  <RecruitFactionAngerLeaderless>Los miembros de {0} están molestos contigo por reclutar a {1} ({2}).</RecruitFactionAngerLeaderless>
+  <RecruitFactionPlease>{0} de {1} está feliz de que hayas quitado a {2} de sus manos ({3}).</RecruitFactionPlease>
+  <RecruitFactionPleaseLeaderless>Los miebros de {0} están felices de que hayas quitado a {1} de sus manos ({2}).</RecruitFactionPleaseLeaderless>
+  <MessageGuestRecruitSuccess>¡{0} ha decidido unirse a tu colonia!</MessageGuestRecruitSuccess>
+  <LetterLabelRecruitFactionChiefAnger>Jefe molesto</LetterLabelRecruitFactionChiefAnger>
+  <LetterLabelRecruitFactionAnger>Facción molesta</LetterLabelRecruitFactionAnger>
+  <LetterLabelRecruitFactionChiefPlease>Jefe complacido</LetterLabelRecruitFactionChiefPlease>
+  <LetterLabelRecruitFactionPlease>Facción complacida</LetterLabelRecruitFactionPlease>
+  
+  <!-- Diplomacy --> 
+  <ImproveFactionPlease>{0} mejoró la relación con {1} de {2} ({3} de probabilidad).</ImproveFactionPlease>
+  <ImproveFactionAnger>{0} empeoró la relación con {1} de {2} ({3} de probabilidad).</ImproveFactionAnger>
+  
+  <!-- Incident Results -->
+  <VisitorsLeavingGreat>¡Están absolutamente encantados con tu hospitalidad! ({1})</VisitorsLeavingGreat>
+  <VisitorsLeavingGood>¡Han disfrutado tu hospitalidad mucho más de lo que esperaban! ({1})</VisitorsLeavingGood>
+  <VisitorsLeavingNormal>Su estadía fue justo lo que esperaban.</VisitorsLeavingNormal>
+  <VisitorsLeavingBad>Esperaban más de ti. ({1})</VisitorsLeavingBad>
+  <VisitorsLeavingAwful>Se decepcionaron terriblemente de su estadía. ({1})</VisitorsLeavingAwful>
+  <VisitorSatisfied>{0} disfrutó su estadía. {2} te dejó {3}.</VisitorSatisfied>
+  <VisitorVerySatisfied>{0} disfrutó totalmente su estadía. {2} te dejó {3}.</VisitorVerySatisfied>
+  <MessageVisitorsLeavingCold>Los visitantes de {0} se están retirando debido al frío.</MessageVisitorsLeavingCold>
+  
+  <MessageMissingPawnFactionAnger>Un miembro de {0} se ha perdido en tu territorio! ({2})</MessageMissingPawnFactionAnger>
+  <MessageMissingPawnsFactionAnger>{1} miembros de {0} se han perdido en tu territorio! ({2})</MessageMissingPawnsFactionAnger>
+  <MessageKilledPawnFactionAnger>{0} ha escuchado lo que sucedió a {1} y te culpan por ello. ({2})</MessageKilledPawnFactionAnger>
+  <LetterLabelMissingPawnsFactionAnger>Jefe molesto</LetterLabelMissingPawnsFactionAnger>
+
+
+  <!-- Tab -->
+  <ConvincingLeft>Se requiere convencimiento</ConvincingLeft>
+  <Trust>Confianza en los colonos</Trust>
+  <RecruitmentPenalty>Relación dañada al reclutar</RecruitmentPenalty>
+  <ImproveRelationship>Intenta mejorar las relaciones de facción</ImproveRelationship>
+  <LeaveAlone>Dejar a solas</LeaveAlone>
+  <FactionGoodwill>Relaciones con la facción</FactionGoodwill>
+  <Hospitality>Hospitalidad</Hospitality>
+  <SetDefault>Marcar como estándar</SetDefault>
+
+  <!-- Infos -->
+  <StatsReport_FinalAdjustment>Ajuste</StatsReport_FinalAdjustment>
+  
+  <!-- Bed -->
+  <ForGuestUse>Para uso de huéspedes</ForGuestUse>
+  
+  <!-- Rescue -->
+  <RescuedInitial>NAME, a quien rescataste, está muy agradecido(a) por su rescate y desea quedarse a vivir en tu colonia.\n\nHECAP es {1}.</RescuedInitial>
+  <RescuedInitial_Accept>Aceptarle</RescuedInitial_Accept>
+  <RescuedInitial_Reject>Rechazarle</RescuedInitial_Reject>
+  
+  <!-- Wanderer -->
+  <WandererInitial>NAME de {0} estaba viajando cerca de aquí. HECAP desea quedarse en tu colonia por un tiempo.</WandererInitial>
+
+</LanguageData>
