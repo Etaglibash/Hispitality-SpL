@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<Warden.labelShort>Negociar</Warden.labelShort>
+	<Warden.pawnLabel>Diplomático</Warden.pawnLabel>
+	<Warden.gerundLabel>Negociando</Warden.gerundLabel>
+	<Warden.description>Los diplomáticos lidian con prisioneros y visitantes.</Warden.description>
+	<Warden.verb>Sociedad</Warden.verb>
+
+</LanguageData>
