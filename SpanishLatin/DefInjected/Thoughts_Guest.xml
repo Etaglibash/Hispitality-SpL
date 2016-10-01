@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>GuestConvinced.stages[0].label</path>
+		<trans>convencido por intento de reclutamiento</trans>
+	</rep>
+	<rep>
+		<path>GuestConvinced.stages[0].labelSocial</path>
+		<trans>me convenció</trans>
+	</rep>
+	<rep>
+		<path>GuestConvinced.stages[0].description</path>
+		<trans>Ese colono y yo tuvimos una charla acerca de la colonia. Suena como una buen lugar...</trans>
+	</rep>
+
+	<rep>
+		<path>GuestOffended.stages[0].label</path>
+		<trans>me ha ofendido</trans>
+	</rep>
+	<rep>
+		<path>GuestOffended.stages[0].labelSocial</path>
+		<trans>ofendido por intento de reclutamiento</trans>
+	</rep>
+	<rep>
+		<path>GuestOffended.stages[0].description</path>
+		<trans>Ese colono ha intentado reclutarme. ¡Pero yo no quiero abandonar mi facción!</trans>
+	</rep>
+
+	<rep>
+		<path>GuestAngered.stages[0].label</path>
+		<trans>molesto al presenciar un reclutamiento</trans>
+	</rep>
+	<rep>
+		<path>GuestAngered.stages[0].labelSocial</path>
+		<trans>me ha molestado al reclutar</trans>
+	</rep>
+	<rep>
+		<path>GuestAngered.stages[0].description</path>
+		<trans>¡Estas personas intentan robarse a los nuestros!</trans>
+	</rep>
+
+	<rep>
+		<path>GuestOffendedRelationship.stages[0].label</path>
+		<trans>insultado por colono</trans>
+	</rep>
+	<rep>
+		<path>GuestOffendedRelationship.stages[0].labelSocial</path>
+		<trans>me ha insultado</trans>
+	</rep>
+	<rep>
+		<path>GuestOffendedRelationship.stages[0].description</path>
+		<trans>¡Estos tipos son perdedores!</trans>
+	</rep>
+
+	<rep>
+		<path>GuestPleasedRelationship.stages[0].label</path>
+		<trans>halagado por colono</trans>
+	</rep>
+	<rep>
+		<path>GuestPleasedRelationship.stages[0].labelSocial</path>
+		<trans>me ha halagado</trans>
+	</rep>
+	<rep>
+		<path>GuestPleasedRelationship.stages[0].description</path>
+		<trans>¡Tan buenas personas que son!</trans>
+	</rep>
+
+	<rep>
+		<path>GuestDismissiveAttitude.stages[0].label</path>
+		<trans>cansado de hablar</trans>
+	</rep>
+	<rep>
+		<path>GuestDismissiveAttitude.stages[0].description</path>
+		<trans>Ya me cansé de hablar por ahora. Déjame en paz.</trans>
+	</rep>
+	<rep>
+		<path>GuestBedCount.stages[0].label</path>
+		<trans>no hay camas para huéspedes</trans>
+	</rep>
+	<rep>
+		<path>GuestBedCount.stages[0].description</path>
+		<trans>Ni siquiera tienen camas aquí.</trans>
+	</rep>
+	<rep>
+		<path>GuestBedCount.stages[1].label</path>
+		<trans>no hay suficientes camas de huéspedes</trans>
+	</rep>
+	<rep>
+		<path>GuestBedCount.stages[1].description</path>
+		<trans>Debería haber más camas en nuestro cuarto.</trans>
+	</rep>
+	<rep>
+		<path>GuestBedCount.stages[2].label</path>
+		<trans>camas suficientes</trans>
+	</rep>
+	<rep>
+		<path>GuestBedCount.stages[2].description</path>
+		<trans>Hay camas suficientes en nuestro cuarto para todos.</trans>
+	</rep>
+	<rep>
+		<path>GuestBedCount.stages[3].label</path>
+		<trans>cantidad de camas</trans>
+	</rep>
+	<rep>
+		<path>GuestBedCount.stages[3].description</path>
+		<trans>¡Vaya, tantas camas!</trans>
+	</rep>
+
+</LanguageData>
